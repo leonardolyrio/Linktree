@@ -20,7 +20,13 @@ section {
   margin-top: 3rem;
 }
 
+html {
+  background-color: white;
+}
+
 body {
+  max-width: 400px;
+  margin: 0 auto;
   padding: 1rem 0.8rem;
   background-color: rgb(245, 245, 245);
 }
